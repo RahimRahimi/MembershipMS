@@ -1,0 +1,6 @@
+Login Details
+
+Email   : admin@mail.com
+Password: admin
+
+Note: Please, change your account's username, email, and password after logging in.
